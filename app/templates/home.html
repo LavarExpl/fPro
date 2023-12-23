@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=2.0">
+   <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+   <title>NBA Stats App</title>
+</head>
+<body>
+</head>
+<body>
+    <div class="player-dashboard">
+        {% for player in random_players %}
+            <div class="player-preview">
+                <h3>{{ player.name }}</h3>
+                <p>Team: {{ player.team }}</p>
+                <p>Points: {{ player.points }}</p>
+                <p>Assists: {{ player.assists }}</p>
+                <p>Rebounds: {{ player.rebounds }}</p>
+            </div>
+        {% endfor %}
+</div>
+    <h1>Welcome to NBA Stats App</h1>
+    <p>Explore player stats:</p>
+    <a href="{{ url_for('player_stats') }}" style="font-style: italic;"> Player Stat Page</a>
+
+    <!-- Dashboard of random player previews -->
+
+    <!-- End of Dashboard -->
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

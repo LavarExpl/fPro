@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <!-- Add your head content here -->
+</head>
+<body>
+    <a href="{{ url_for('back_to_main') }}"><button class="back-button">Back to Main Page</button></a>
+    {% block content %}{% endblock %}
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,148 @@
+body {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    /* Background properties with transparency */
+    background-color: rgba(18, 4, 4, 0.8); /* Adjust the alpha value (0.0 to 1.0) for the desired transparency */
+    background-image: url('https://www.logodesignlove.com/wp-content/uploads/2011/04/nba-logo-basketball-01.jpg'); /* Replace 'path/to/nba_logo.jpg' with the actual path to your NBA logo image */
+    background-repeat: repeat;
+    background-size: cover; /* Adjust as needed to cover the entire background */
+    background-position: center;
+}
+h1 {
+    color: #007bff;
+}
+/* Adjusted styles for better text visibility */
+p {
+    background-color: rgba(255, 255, 255, 0.9); /* Adjust the alpha value as needed */
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px 0;
+    display: inline-block; /* Ensures background only covers the text content */
+}
+a {
+    background-color: #007bff;
+    color: #060101;
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+table {
+    background-color: rgba(250, 223, 223, 0.9); /* Adjust the alpha value as needed */
+    padding: 15px;
+    border-radius: 10px;
+    margin-top: 20px;
+    
+}
+
+.back-button {
+    margin-top: 10px;
+    padding: 5px 10px;
+    background-color: #05111d;
+    color: #080202;
+    border: none;
+    cursor: pointer;
+}
+body {
+    background-image: url('https://www.logodesignlove.com/wp-content/uploads/2011/04/nba-logo-basketball-01.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+/* Style for back button */
+.back-button {
+    margin-top: 10px;
+    padding: 5px 10px;
+    background-color: #6c8198;
+    color: #FFF;
+    border: none;
+    cursor: pointer;
+}
+Add your existing CSS styles here */
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f2f2f2;
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  color: #1f0202;
+}
+p {
+  color: #555;
+}
+a {
+  color: #070809;
+  text-decoration: none;
+}
+.player-dashboard {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 20px;
+ }
+ .player-preview {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 15px;
+    margin: 10px;
+    width: 200px;
+    text-align: center;
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+/* Add more styling as needed */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
